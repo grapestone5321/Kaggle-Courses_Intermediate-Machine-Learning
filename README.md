@@ -35,8 +35,8 @@ Data-Leakage
 
 ## csv files
 
-melb_data
+- melb_data.csv
 
-AER_credit_card_data
+- AER_credit_card_data.csv
 
 -------
